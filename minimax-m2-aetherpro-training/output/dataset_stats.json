@@ -1,0 +1,29 @@
+{
+  "total_examples": 48,
+  "working_set_examples": 48,
+  "category_distribution": {
+    "failure_analysis": 20,
+    "first_principles": 22,
+    "code_review": 1,
+    "electrical": 1,
+    "philosophy": 4
+  },
+  "source_distribution": {
+    "gemini_validation": 3,
+    "grok_chats": 21,
+    "claude_chats": 24
+  },
+  "quality_distribution": {
+    "10": 9,
+    "9": 10,
+    "8": 8,
+    "7": 21
+  },
+  "category_percentages": {
+    "failure_analysis": "41.7%",
+    "first_principles": "45.8%",
+    "code_review": "2.1%",
+    "electrical": "2.1%",
+    "philosophy": "8.3%"
+  }
+}
