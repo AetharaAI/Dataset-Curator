@@ -1,29 +1,29 @@
 {
-  "total_examples": 48,
-  "working_set_examples": 48,
+  "total_examples": 68,
+  "working_set_examples": 68,
   "category_distribution": {
-    "failure_analysis": 20,
-    "first_principles": 22,
-    "code_review": 1,
-    "electrical": 1,
+    "failure_analysis": 30,
+    "first_principles": 26,
+    "code_review": 6,
+    "electrical": 2,
     "philosophy": 4
   },
   "source_distribution": {
     "gemini_validation": 3,
-    "grok_chats": 21,
+    "grok_chats": 41,
     "claude_chats": 24
   },
   "quality_distribution": {
-    "10": 9,
-    "9": 10,
+    "10": 25,
+    "9": 14,
     "8": 8,
     "7": 21
   },
   "category_percentages": {
-    "failure_analysis": "41.7%",
-    "first_principles": "45.8%",
-    "code_review": "2.1%",
-    "electrical": "2.1%",
-    "philosophy": "8.3%"
+    "failure_analysis": "44.1%",
+    "first_principles": "38.2%",
+    "code_review": "8.8%",
+    "electrical": "2.9%",
+    "philosophy": "5.9%"
   }
 }
