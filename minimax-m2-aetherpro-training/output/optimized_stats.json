@@ -1,0 +1,22 @@
+{
+  "total_examples": 68,
+  "reclassified_count": 22,
+  "category_distribution": {
+    "first_principles": 47,
+    "code_review": 6,
+    "failure_analysis": 10,
+    "philosophy": 5
+  },
+  "category_percentages": {
+    "first_principles": "69.1%",
+    "code_review": "8.8%",
+    "failure_analysis": "14.7%",
+    "philosophy": "7.4%"
+  },
+  "target_distribution": {
+    "technical": "60%",
+    "philosophy": "15%",
+    "code_review": "15%",
+    "failure_analysis": "10%"
+  }
+}
