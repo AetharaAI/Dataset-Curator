@@ -1,0 +1,33 @@
+{
+  "total_examples": 610,
+  "high_quality_examples": 516,
+  "files_processed": {
+    "first_principles": 15,
+    "philosophy": 8,
+    "aetherpro": 35
+  },
+  "category_distribution": {
+    "first_principles": 11,
+    "failure_analysis": 2,
+    "philosophy": 21,
+    "ai_architecture": 482
+  },
+  "source_distribution": {
+    "kimi_validation": 2,
+    "gemini_validation": 11,
+    "philosophy_generated": 5,
+    "claude_chats": 2,
+    "aetherpro_docs": 496
+  },
+  "quality_distribution": {
+    "6": 420,
+    "8": 11,
+    "7": 85
+  },
+  "category_percentages": {
+    "first_principles": "2.1%",
+    "failure_analysis": "0.4%",
+    "philosophy": "4.1%",
+    "ai_architecture": "93.4%"
+  }
+}
